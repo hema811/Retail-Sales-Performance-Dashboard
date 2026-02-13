@@ -8,6 +8,11 @@ This project analyzes an Online Retail dataset (2010–2011) to understand sales
 - Excel
 
 ## 📌 Dashboard Pages
+### Sales Overview
+[Sales Overview](sales_overview.png)
+
+### Customer Insights
+[Customer Insights](customer_insights.png)
 ### 1) Sales Overview
 - Total Revenue, Orders, Customers, Quantity KPIs
 - Monthly Revenue Trend
