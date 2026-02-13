@@ -5,7 +5,6 @@ This project analyzes an Online Retail dataset (2010–2011) to understand sales
 ## 🚀 Tools Used
 - Power BI
 - SQL
-- Excel
 
 ## 📌 Dashboard Pages
 ### Sales Overview
